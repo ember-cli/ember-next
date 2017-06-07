@@ -1,0 +1,11 @@
+{
+  "name": "ember-next",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/ember-cli/ember-next",
+  "author": "Stefan Penner <stefan.penner@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ember-cli": "^2.13.2"
+  }
+}
